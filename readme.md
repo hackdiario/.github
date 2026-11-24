@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Substitua o src abaixo pelo caminho real da sua logo no repositório (ex: ./assets/logo.png) -->
-  <img src="./assets/logo.png" alt="Logo HackDiário" width="140" />
+  <img src="./assets/logo-light.png" alt="Logo HackDiário" width="140" />
 
   <h1>HackDiário</h1>
 
